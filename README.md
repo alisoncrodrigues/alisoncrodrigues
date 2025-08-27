@@ -2,7 +2,7 @@
 
 Eu sou <strong>Alison Rodrigues</strong>, <strong>sou músico de formação e atualmente estou tomando novos rumos na área de tecnologia</strong> 🎸 
 
-- 🚀 Atualmente estou aprendendo: <strong>Análise e Desenvolvimento de Sistemas</strong> 
+- 🚀 Atualmente estou aprendendo <strong>Análise e Desenvolvimento de Sistemas</strong> 
 - 💬 Pergunte-me sobre: <strong>Filmes, séries, RPG, jogos e música</strong>
 - 📣 Nós podemos falar em: <strong>Português</strong>
 
